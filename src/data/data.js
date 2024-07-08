@@ -9,42 +9,42 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A thin, crispy pancake made from fermented rice and lentil batter, typically served with coconut chutney and sambar.",
     image: Dosa,
     price: 200,
   },
   {
     name: "Chola",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Spicy and flavorful chickpea curry, usually served with fried bread known as bhature or steamed rice.",
     image: Chola,
     price: 250,
   },
   {
     name: "Idli Sambhar",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Steamed rice cakes served with a spicy, tangy lentil soup known as sambar and coconut chutney.",
     image: Idli,
     price: 300,
   },
   {
     name: "Masala Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A crispy dosa filled with a spicy potato filling, served with coconut chutney and sambar.",
     image: MasalaDosa,
     price: 100,
   },
   {
     name: "Paneer",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Cottage cheese cubes cooked in a rich, creamy tomato-based gravy with aromatic spices.",
     image: Paneer,
     price: 400,
   },
   {
-    name: "Gujrati",
+    name: "Gujrati Thali",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A traditional platter with a variety of dishes including roti, dal, rice, vegetables, and sweet treats, showcasing the flavors of Gujarat.",
     image: Gujrati,
     price: 500,
   },
